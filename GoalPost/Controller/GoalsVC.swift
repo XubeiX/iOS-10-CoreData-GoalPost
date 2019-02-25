@@ -7,13 +7,14 @@
 //
 
 import UIKit
+import CoreData
 
 class GoalsVC: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        // Do and additional setup after loading the view, typically from a nib.
     }
 
     @IBAction func AddGoalButtonWasPressed(_ sender: Any) {
