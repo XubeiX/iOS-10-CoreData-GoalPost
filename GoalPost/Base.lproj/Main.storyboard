@@ -103,7 +103,7 @@
                                                                     <nil key="textColor"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
-                                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Jump all over night" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="aVl-93-xvH">
+                                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Jump all over night" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="14" translatesAutoresizingMaskIntoConstraints="NO" id="aVl-93-xvH">
                                                                     <rect key="frame" x="65" y="0.0" width="259" height="28"/>
                                                                     <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="18"/>
                                                                     <nil key="textColor"/>
