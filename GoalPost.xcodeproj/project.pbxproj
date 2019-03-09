@@ -19,6 +19,7 @@
 		7E169B112233CF66000CA493 /* UIViewControllerExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E169B102233CF66000CA493 /* UIViewControllerExt.swift */; };
 		7E169B132233D2C4000CA493 /* UIViewExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E169B122233D2C4000CA493 /* UIViewExt.swift */; };
 		7E169B152233D6FF000CA493 /* UIButtonExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E169B142233D6FF000CA493 /* UIButtonExt.swift */; };
+		7E169B172233DA82000CA493 /* FinishGoalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E169B162233DA82000CA493 /* FinishGoalVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		7E169B102233CF66000CA493 /* UIViewControllerExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerExt.swift; sourceTree = "<group>"; };
 		7E169B122233D2C4000CA493 /* UIViewExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExt.swift; sourceTree = "<group>"; };
 		7E169B142233D6FF000CA493 /* UIButtonExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExt.swift; sourceTree = "<group>"; };
+		7E169B162233DA82000CA493 /* FinishGoalVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishGoalVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			children = (
 				7E08680D222458FE00612482 /* GoalsVC.swift */,
 				7E169B0E2233CE1F000CA493 /* CreateGoalVC.swift */,
+				7E169B162233DA82000CA493 /* FinishGoalVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				7E08680C222458FE00612482 /* AppDelegate.swift in Sources */,
 				7E169B112233CF66000CA493 /* UIViewControllerExt.swift in Sources */,
 				7E169B152233D6FF000CA493 /* UIButtonExt.swift in Sources */,
+				7E169B172233DA82000CA493 /* FinishGoalVC.swift in Sources */,
 				7E086814222458FE00612482 /* GoalPost.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
